@@ -1,0 +1,46 @@
+/* mod_contacto.css */
+
+/* Estilos para la sección de contacto */
+.contact {
+    padding: 60px 0;
+}
+
+.section-title {
+    margin-bottom: 50px;
+}
+
+.section-title h3 {
+    font-size: 32px;
+    color: #333;
+}
+
+.section-title p {
+    font-size: 18px;
+    color: #777;
+}
+
+.form-control {
+    border-radius: 0;
+    box-shadow: none;
+    border-color: #ddd;
+    height: 45px;
+}
+
+.form-control:focus {
+    border-color: #999;
+}
+
+.help-block {
+    color: red;
+}
+
+.btn-primary {
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #4cae4c;
+    border-color: #398439;
+}
